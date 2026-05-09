@@ -87,4 +87,4 @@ Smaller is fine. The classification task is narrow and the correct answer is usu
 
 ### On errors
 
-If the model call fails for any reason, the prompt goes through. The hook fails open. This is intentional: a broken civility checker should not prevent you from working. It should only prevent you from being unpleasant, which you are apparently capable of managing on your own when the infrastructure is down.
+If the model call fails for any reason, the prompt goes through. The hook fails open. This is intentional: a broken civility checker should not prevent you from working. It should only prevent you from being unpleasant — in which case, the essay is still there.
